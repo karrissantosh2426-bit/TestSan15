@@ -1,0 +1,15 @@
+{
+	"name": "sanadf15",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9197672-2212-4522-8ec9-a92121a1eced",
+		"tenantId": "29f62a40-5060-4b50-9d1c-65e61ac1b377"
+	}
+}
